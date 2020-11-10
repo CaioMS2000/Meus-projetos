@@ -1,0 +1,7 @@
+Programa feito usando as funcionalidades do Qt creator
+
+resumo das funcionalidades do programa:
+-registrar um usoário no sistema de compra
+-registrar produtos pro sistema
+-colocar no carrinho os produtos desejados por cada usoário
+-mostrar os produtos do carrinho e o preço total a pagar pelos produtos
